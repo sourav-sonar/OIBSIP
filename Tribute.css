@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif;
+}
+
+.head{
+    color: brown;
+}
+
+.para{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.container{
+    background-color: antiquewhite;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.container img{
+    height: 300px;
+    padding-right: 10%;
+}
+
+.container p{
+    padding-top: 7%;
+    padding-left:10%;
+    font-weight: bold;
+    font-style: italic;
+    word-spacing: 0.2cm;
+    line-height: 0.7cm;
+}
+
+.container h4{
+    font-size:13px;
+  font-family:consolas;
+  padding: 10px;
+}
+
+.para2{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.facts{
+    background-color: antiquewhite;
+    line-height: 0.6cm;
+}
